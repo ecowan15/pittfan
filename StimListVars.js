@@ -19,8 +19,8 @@ Item Mem: order 1 [1-3] vs 2 [4-6], with foils [old/new recog]
 Associative Mem: order 1 vs 2, choose scene with cued item. */
 
 
-var practice_list_item = ['animal23.jpg','toca22.jpg','tool22.jpg']	
-var practice_list_scene = ['cart_scene37.jpg','fam_scene37.jpg','ind_scene37.jpg']
+var practice_list_item = ['animal23.jpg','toca22.jpg','tool22.jpg'];
+var practice_list_scene = ['cart_scene37.jpg','fam_scene37.jpg','ind_scene37.jpg'];
 	
 
 var encoding_stim_list = [
